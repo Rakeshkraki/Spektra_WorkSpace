@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\rakes\\Documents\\Dekstop_folders\\SpectraWorkspace\\Spektra_WorkSpace\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rakes\\Documents\\Dekstop_folders\\SpectraWorkspace\\Spektra_WorkSpace\\ConsoleApp1\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90CCB6C1-2ECC-4264-95A1-8BF331FEA5C9}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\rakes\\documents\\dekstop_folders\\spectraworkspace\\spektra_workspace\\consoleapp1\\consoleapp1\\wordcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CCB6C1-2ECC-4264-95A1-8BF331FEA5C9}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\wordcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rakes\\Documents\\Dekstop_folders\\SpectraWorkspace\\Spektra_WorkSpace\\ConsoleApp1\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\rakes\\Documents\\Dekstop_folders\\SpectraWorkspace\\Spektra_WorkSpace\\ConsoleApp1\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Title": "WordCount.cs",
+              "DocumentMoniker": "C:\\Users\\rakes\\Documents\\Dekstop_folders\\SpectraWorkspace\\Spektra_WorkSpace\\ConsoleApp1\\ConsoleApp1\\WordCount.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\WordCount.cs",
+              "ToolTip": "C:\\Users\\rakes\\Documents\\Dekstop_folders\\SpectraWorkspace\\Spektra_WorkSpace\\ConsoleApp1\\ConsoleApp1\\WordCount.cs",
+              "RelativeToolTip": "ConsoleApp1\\WordCount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-17T09:16:37.425Z",
               "EditorCaption": ""

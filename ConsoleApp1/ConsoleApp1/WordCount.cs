@@ -2,9 +2,10 @@
 
 class WordCount
 {
-    static void Main()
+    static void Main(string[] args)
 
     {
+
 
         //CountWords();
 
@@ -91,5 +92,38 @@ class WordCount
             }
         }
 
+    }
+
+}
+
+
+abstract class Oops
+{
+
+    
+    public abstract void Fly();
+
+    public virtual  int Add(int a, int b)
+    {
+        return a + b;
+    }
+
+    static int Add(int a, int b, int c)
+    {
+        return a + b + c;
+    }
+
+}
+
+class Oops1 : Oops
+{
+    public override void Fly()
+    {
+        Console.WriteLine("i'm flying");
+    }
+
+    public int Add(int a, int b)
+    {
+        return a + b;
     }
 }

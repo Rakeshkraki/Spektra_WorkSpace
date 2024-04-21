@@ -1,0 +1,15 @@
+C:\Users\rakes\Documents\Dekstop_folders\SpectraWorkspace\Spektra_WorkSpace\assessment3\assessment3\bin\Debug\net8.0\assessment3.exe
+C:\Users\rakes\Documents\Dekstop_folders\SpectraWorkspace\Spektra_WorkSpace\assessment3\assessment3\bin\Debug\net8.0\assessment3.deps.json
+C:\Users\rakes\Documents\Dekstop_folders\SpectraWorkspace\Spektra_WorkSpace\assessment3\assessment3\bin\Debug\net8.0\assessment3.runtimeconfig.json
+C:\Users\rakes\Documents\Dekstop_folders\SpectraWorkspace\Spektra_WorkSpace\assessment3\assessment3\bin\Debug\net8.0\assessment3.dll
+C:\Users\rakes\Documents\Dekstop_folders\SpectraWorkspace\Spektra_WorkSpace\assessment3\assessment3\bin\Debug\net8.0\assessment3.pdb
+C:\Users\rakes\Documents\Dekstop_folders\SpectraWorkspace\Spektra_WorkSpace\assessment3\assessment3\obj\Debug\net8.0\assessment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rakes\Documents\Dekstop_folders\SpectraWorkspace\Spektra_WorkSpace\assessment3\assessment3\obj\Debug\net8.0\assessment3.AssemblyInfoInputs.cache
+C:\Users\rakes\Documents\Dekstop_folders\SpectraWorkspace\Spektra_WorkSpace\assessment3\assessment3\obj\Debug\net8.0\assessment3.AssemblyInfo.cs
+C:\Users\rakes\Documents\Dekstop_folders\SpectraWorkspace\Spektra_WorkSpace\assessment3\assessment3\obj\Debug\net8.0\assessment3.csproj.CoreCompileInputs.cache
+C:\Users\rakes\Documents\Dekstop_folders\SpectraWorkspace\Spektra_WorkSpace\assessment3\assessment3\obj\Debug\net8.0\assessment3.sourcelink.json
+C:\Users\rakes\Documents\Dekstop_folders\SpectraWorkspace\Spektra_WorkSpace\assessment3\assessment3\obj\Debug\net8.0\assessment3.dll
+C:\Users\rakes\Documents\Dekstop_folders\SpectraWorkspace\Spektra_WorkSpace\assessment3\assessment3\obj\Debug\net8.0\refint\assessment3.dll
+C:\Users\rakes\Documents\Dekstop_folders\SpectraWorkspace\Spektra_WorkSpace\assessment3\assessment3\obj\Debug\net8.0\assessment3.pdb
+C:\Users\rakes\Documents\Dekstop_folders\SpectraWorkspace\Spektra_WorkSpace\assessment3\assessment3\obj\Debug\net8.0\assessment3.genruntimeconfig.cache
+C:\Users\rakes\Documents\Dekstop_folders\SpectraWorkspace\Spektra_WorkSpace\assessment3\assessment3\obj\Debug\net8.0\ref\assessment3.dll

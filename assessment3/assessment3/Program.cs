@@ -6,51 +6,54 @@
 
 //public class Employee
 //{
-//    int Eno;
-//    double Salary;
-//    string Ename, Job, Dname, Location;
+//    int eno;
+//    double salary;
+//    string ename;
+//    string job;
+//    string dName;
+//    string location;
 
 //    public Employee(int Eno, string Ename, string Job, double Salary, string Dname, string Location)
 //    {
-//        this.Eno = Eno;
-//        this.Ename = Ename;
-//        this.Job = Job;
-//        this.Salary = Salary;
-//        this.Dname = Dname;
-//        this.Location = Location;
+//        this.eno = Eno;
+//        this.ename = Ename;
+//        this.job = Job;
+//        this.salary = Salary;
+//        this.dName = Dname;
+//        this.location = Location;
 //    }
 //    public object this[int index]
 //    {
 //        get
 //        {
 //            if (index == 0)
-//                return Eno;
+//                return eno;
 //            else if (index == 1)
-//                return Ename;
+//                return ename;
 //            else if (index == 2)
-//                return Job;
+//                return job;
 //            else if (index == 3)
-//                return Salary;
+//                return salary;
 //            else if (index == 4)
-//                return Dname;
+//                return dName;
 //            else if (index == 5)
-//                return Location;
+//                return location;
 //            return null;
 //        }
 //        set
 //        {
 //            if (index == 0)
-//                Eno = (int)value;
+//                eno = (int)value;
 //            else if (index == 1)
-//                Ename = (string)value;
+//                ename = (string)value;
 //            else if (index == 2)
-//                Job = (string)value;
+//                job = (string)value;
 //            else if (index == 3)
-//                Salary = (double)value;
+//                salary = (double)value;
 //            else if (index == 4)
-//                Dname = (string)value;
+//                dName = (string)value;
 //            else if (index == 5)
-//                Location = (string)value;
+//                location = (string)value;
 //        }
 //    }
 //}
@@ -85,7 +88,7 @@
 //{
 //    static void Main(string[] args)
 //    {
-//        int temperature = 0;
+//        int temperature = Convert.ToInt32(Console.ReadLine());
 
 //        try
 //        {
@@ -114,12 +117,13 @@
 
 /* file Handling */
 
+//using System.IO;
 
 //class FileHandling
 //{
 //    static void Main(string[] args)
 //    {
-//        string filePath = @"C:\Users\rakes\Documents\Dekstop_folders\SpectraWorkspace\file.txt";
+//        string filePath = @"C:\Users\rakes\Documents\Dekstop_folders\SpektraWorkspace\file.txt";
 
 //        //Console.WriteLine(CreateFIle(filePath));
 
@@ -190,12 +194,9 @@
 
 //    static void CreateAndCopy()
 //    {
-//        string sourceFilePath = @"C:\Users\rakes\Documents\Dekstop_folders\SpectraWorkspace\file.txt";
-//        string destinationFilePath = @"C:\Users\rakes\Documents\Dekstop_folders\SpectraWorkspace\dest.txt";
+//        string sourceFilePath = @"C:\Users\rakes\Documents\Dekstop_folders\SpektraWorkspace\sourceFile.txt";
+//        string destinationFilePath = @"C:\Users\rakes\Documents\Dekstop_folders\SpektraWorkspace\dest.txt";
 
-//        File.Create(destinationFilePath);
-
-//        File.WriteAllText(sourceFilePath, "Hello, this is the content of the source file.");
 
 //        File.Copy(sourceFilePath, destinationFilePath, true);
 
@@ -247,18 +248,20 @@
 //{
 //    static void Main()
 //    {
-//        MergeAndSort();
+//        //MergeAndSort();
 //        //CountAndDisplayFrequencies();
-//        //EvenOdd();
+//        EvenOdd();
 //    }
 
 //    static void MergeAndSort()
 //    {
 
-//        int[] array1 = { 1, 3, 5, 7, 9 };
-//        int[] array2 = { 2, 4, 6, 8, 10 };
+//        int[] array1 = { 1, 2, 5, 6, 9 };
+//        int[] array2 = { 3, 4, 7, 8, 10 };
 
-//        int[] mergedArray = array1.Concat(array2).OrderBy(num => num).ToArray();
+//        int[] mergedArray = array1.Concat(array2).ToArray();
+
+//        Array.Sort(mergedArray);
 
 //        Console.WriteLine("Merged Array:");
 //        foreach (int num in mergedArray)
@@ -270,7 +273,7 @@
 
 //    static void CountAndDisplayFrequencies()
 //    {
-//        int[] array = { 1, 2, 2, 3, 3, 3, 4, 4, 4, 4 };
+//        int[] array = { 1, 2, 2, 3, 4, 4, 4, 4, 5, 5 };
 
 //        Array.Sort(array);
 
@@ -300,8 +303,8 @@
 //    {
 //        int[] array = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 
-//        var oddIntegers = array.Where(num => num % 2 != 0);
-//        var evenIntegers = array.Where(num => num % 2 == 0);
+//        int[] oddIntegers = array.Where(num => num % 2 != 0).ToArray();
+//        int[] evenIntegers = array.Where(num => num % 2 == 0).ToArray();
 
 //        Console.WriteLine("Odd Integers:");
 //        foreach (var num in oddIntegers)
@@ -402,7 +405,9 @@
 //        Console.WriteLine("Bill Amt. : " + billAmt);
 //        Console.WriteLine("---------------------------------------------");
 //        Console.WriteLine("Net Amt. Due : " + netAmt);
-//        Console.WriteLine("Date : " + DateTime.Today.ToString());
+//        Console.WriteLine("Date : " + DateTime.Today);
+
+
 //    }
 
 //    static double PerUnit(int unit)
@@ -410,10 +415,12 @@
 //        if (unit <= 100)
 //        {
 //            return 5.90;
-//        }else if (unit <= 200)
+//        }
+//        else if (unit <= 200)
 //        {
 //            return 7.11;
-//        }else
+//        }
+//        else
 //        {
 //            return 8.16;
 //        }
@@ -422,13 +429,16 @@
 //}
 
 
+
+
 using System.Text.RegularExpressions;
 
 class Program
 {
     static void Main()
     {
-        string text = "Hello! & *  This 4 % contai @ # all  ! characters , ";
+        Console.WriteLine("enter the string contain special characters");
+        string text = Console.ReadLine();
 
         string updatedText = RemoveSpecialCharacters(text);
 

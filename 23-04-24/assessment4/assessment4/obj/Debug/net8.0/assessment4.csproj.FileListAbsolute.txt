@@ -1,0 +1,15 @@
+C:\Users\rakes\Documents\Dekstop_folders\SpektraWorkspace\Spektra_WorkSpace\23-04-24\assessment4\assessment4\bin\Debug\net8.0\assessment4.exe
+C:\Users\rakes\Documents\Dekstop_folders\SpektraWorkspace\Spektra_WorkSpace\23-04-24\assessment4\assessment4\bin\Debug\net8.0\assessment4.deps.json
+C:\Users\rakes\Documents\Dekstop_folders\SpektraWorkspace\Spektra_WorkSpace\23-04-24\assessment4\assessment4\bin\Debug\net8.0\assessment4.runtimeconfig.json
+C:\Users\rakes\Documents\Dekstop_folders\SpektraWorkspace\Spektra_WorkSpace\23-04-24\assessment4\assessment4\bin\Debug\net8.0\assessment4.dll
+C:\Users\rakes\Documents\Dekstop_folders\SpektraWorkspace\Spektra_WorkSpace\23-04-24\assessment4\assessment4\bin\Debug\net8.0\assessment4.pdb
+C:\Users\rakes\Documents\Dekstop_folders\SpektraWorkspace\Spektra_WorkSpace\23-04-24\assessment4\assessment4\obj\Debug\net8.0\assessment4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rakes\Documents\Dekstop_folders\SpektraWorkspace\Spektra_WorkSpace\23-04-24\assessment4\assessment4\obj\Debug\net8.0\assessment4.AssemblyInfoInputs.cache
+C:\Users\rakes\Documents\Dekstop_folders\SpektraWorkspace\Spektra_WorkSpace\23-04-24\assessment4\assessment4\obj\Debug\net8.0\assessment4.AssemblyInfo.cs
+C:\Users\rakes\Documents\Dekstop_folders\SpektraWorkspace\Spektra_WorkSpace\23-04-24\assessment4\assessment4\obj\Debug\net8.0\assessment4.csproj.CoreCompileInputs.cache
+C:\Users\rakes\Documents\Dekstop_folders\SpektraWorkspace\Spektra_WorkSpace\23-04-24\assessment4\assessment4\obj\Debug\net8.0\assessment4.sourcelink.json
+C:\Users\rakes\Documents\Dekstop_folders\SpektraWorkspace\Spektra_WorkSpace\23-04-24\assessment4\assessment4\obj\Debug\net8.0\assessment4.dll
+C:\Users\rakes\Documents\Dekstop_folders\SpektraWorkspace\Spektra_WorkSpace\23-04-24\assessment4\assessment4\obj\Debug\net8.0\refint\assessment4.dll
+C:\Users\rakes\Documents\Dekstop_folders\SpektraWorkspace\Spektra_WorkSpace\23-04-24\assessment4\assessment4\obj\Debug\net8.0\assessment4.pdb
+C:\Users\rakes\Documents\Dekstop_folders\SpektraWorkspace\Spektra_WorkSpace\23-04-24\assessment4\assessment4\obj\Debug\net8.0\assessment4.genruntimeconfig.cache
+C:\Users\rakes\Documents\Dekstop_folders\SpektraWorkspace\Spektra_WorkSpace\23-04-24\assessment4\assessment4\obj\Debug\net8.0\ref\assessment4.dll

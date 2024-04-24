@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1ayIIca8Nx4hevTgJAXRj0DXodFcYeb5H9BZu4a/1VyKCaoW0zhMl7YsucwYn5uLuUw39gt1ExZ8r+g8P6FY4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rakes\\Documents\\Dekstop_folders\\SpektraWorkspace\\Spektra_WorkSpace\\23-04-24\\assessment5\\assessment5\\assessment5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rakes\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
